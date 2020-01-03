@@ -5,6 +5,7 @@
 This application features the ability to simulate a fireworks display.
 
 ![][image_screenshot]
+![index](https://user-images.githubusercontent.com/6654513/71703894-8354bd80-2d94-11ea-8986-71cd99f53817.png)
 
 ## Application Compiling
 
